@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipReview</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="s0">Did the food arrive in a timely manner?</string>
+    <string name="s1">Were you satisfied with how often the waiters poured your drinks?</string>
+    <string name="s2">Were the waiters polite/friendly?</string>
+    <string name="s3">Did you enjoy the food?</string>
+    <string name="s4">Was the restroom clean?</string>
+    <string name="s5">Did you enjoy your stay?</string>
+
+</resources>

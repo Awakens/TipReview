@@ -1,0 +1,6 @@
+hdpi 72 x 72
+mdpi 48 x 48
+xhdpi 96 x 96
+xxhdpi 144 x 144
+
+Name them ic_launcher.png  or change manifest
